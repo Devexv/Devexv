@@ -25,7 +25,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Devexv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Devexv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devexv&layout=compact&theme=buefy&hide_border=true" alt="" />
 
 <br/> 
 
