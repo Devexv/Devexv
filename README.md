@@ -26,9 +26,6 @@
 
 ### 📊 Stats:
 
-<a href="https://github.com/Devexv">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Devexv" />
-</a>
-<a href="https://github.com/Devexv"> 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devexv&layout=compact&langs_count=8&card_width=320" />
-</a>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devexv&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devexv&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<br/> 
