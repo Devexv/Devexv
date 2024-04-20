@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **C++**
 - 🤝 I’m looking to help with **any project on C++ or Lua and C**
 - 🔍 In search for help to create an open source to help everyone starting github
-- 👨‍💻 All of my projects are available at [devexv.github.io](devexv.github.io)
+- 👨‍💻 All of my projects are available at [Devexv.github.io](https://devexv.github.io)
 - 📅 My birthday is on 20th of April
 
 <h3 align="left">Connect with me or Collaborate : devexv@internet.ru or mrjaflame@gmail.com</h3>
