@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif)
 
 - # 👋 Hi, I’m @Devexv
-- ⏰ I am 14 and I know C++ and Lua.
+- ⏰ I am 15 and I know C++ and Lua.
 - 👀 I’m interested in projects on C++
 - 🌱 I’m currently learning C
 - 🔎 I’m looking to collaborate on any project
