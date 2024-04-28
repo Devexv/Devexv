@@ -1,5 +1,9 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 - # 👋 Hi, I’m @Devexv
 - ⏰ I am 15 and I know C++ and Lua.
 - 👀 I’m interested in projects on C++
