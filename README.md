@@ -1,5 +1,3 @@
-# Notice : retired C++/C engineer
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
@@ -9,12 +7,12 @@
 - 👀 I’m interested in projects on C++
 - 🌱 I’m currently learning C
 - 🔎 I’m looking to collaborate on any project
-- 💡  My experience : 2 months
+- 💡  My experience : 8 months
 - 📫 How to reach me : my gmail mrjaflame@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can sleep up to 13 hours
 - 😁 I would be happy to collaborate with anyone
-- 🔭 I’m currently working on **C++**
+- 🔭 I’m currently working on **Projects containing problems with C++**
 - 🤝 I’m looking to help with **any project on C++ or Lua and C**
 - 🔍 In search for help to create an open source to help everyone starting github
 - 👨‍💻 My github pages site : [Devexv.github.io](https://devexv.github.io)
