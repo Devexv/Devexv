@@ -1,9 +1,11 @@
+# Notice : retired C++/C engineer
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
 - # 👋 I’m @Devexv
-- ⏰ I am 15 and I know C++ and Lua.
+- ⏰ I am 16 and I know C++ and Lua.
 - 👀 I’m interested in projects on C++
 - 🌱 I’m currently learning C
 - 🔎 I’m looking to collaborate on any project
