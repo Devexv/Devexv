@@ -3,12 +3,11 @@
 </p>
 
 - # 👋 I’m @Devexv
-- ⏰ I am 16 and I know C++ and Lua.
+- ⏰ I am 17 and I know C++ and Lua.
 - 👀 I’m interested in projects on C++
 - 🌱 I’m currently learning C
 - 🔎 I’m looking to collaborate on any project
-- 💡  My experience : 8 months
-- 📫 How to reach me : my gmail mrjaflame@gmail.com
+- 💡  My experience : 14 months
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can sleep up to 13 hours
 - 😁 I would be happy to collaborate with anyone
